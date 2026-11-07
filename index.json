@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "ncis-inspector",
+  "versions": [
+    {
+      "commit": "61a0182a0e6011335c265980b13095af2eaa4dd9",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:25:30.864111+00:00"
+    }
+  ]
+}
